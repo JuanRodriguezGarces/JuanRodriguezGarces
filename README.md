@@ -21,36 +21,16 @@ Me considero una persona proactiva, con habilidades de comunicación eficaces, r
 # PROYECTOS ELABORADOS
 [![Cálculo de Comisiones Mensuales Clientes B2B](https://ytcards.demolab.com/?id=k2L3XGXNz5Y&title=Cálculo+de+Comisiones+Mensuales+Clientes+B2B&lang=en&timestamp=1715298952&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=30width=250&border_radius=5 "Cálculo de Comisiones Mensuales Clientes B2B")](https://www.youtube.com/watch?v=k2L3XGXNz5Y)
 
-::::{grid} 1 1 2 3
-
-:::{card}
-:header: **Comisiones Mensuales Clientes B2B**
-**Ecosistema**: Fintech
-**Cloud Provider**: Azure
-**Servicios**: Data Factory | Databricks | Data Lake Storage
-:::
-
-:::{card}
-:header: **Costos Totales Clientes B2B y B2C**
-**Ecosistema**: Fintech
-**Cloud Provider**: Azure
-**Servicios**: Data Factory | Databricks | Data Lake Storage
-:::
-
-:::{card}
-:header: **Comisiones Mensuales Clientes B2B**
-**Ecosistema**: Fintech
-**Cloud Provider**: AWS
-**Servicios**: Glue | S3 | Redshift | DynamoDB |Athena
-:::
-
-:::{card}
-:header: **Costos Totales Clientes B2B y B2C**
-**Ecosistema**: Fintech
-**Cloud Provider**: AWS
-**Servicios**: Glue | S3 | Redshift | DynamoDB |Athena
-::::::
-::::
+<div><div><div><p><strong>Comisiones Mensuales Clientes B2B</strong></p></div><p><strong>Ecosistema</strong>: Fintech
+<strong>Cloud Provider</strong>: Azure
+<strong>Servicios</strong>: Data Factory | Databricks | Data Lake Storage</p></div><div><div><p><strong>Costos Totales Clientes B2B y B2C</strong></p></div><p><strong>Ecosistema</strong>: Fintech
+<strong>Cloud Provider</strong>: Azure
+<strong>Servicios</strong>: Data Factory | Databricks | Data Lake Storage</p></div><div><div><p><strong>Comisiones Mensuales Clientes B2B</strong></p></div><p><strong>Ecosistema</strong>: Fintech
+<strong>Cloud Provider</strong>: AWS
+<strong>Servicios</strong>: Glue | S3 | Redshift | DynamoDB |Athena</p></div><div><div><p><strong>Costos Totales Clientes B2B y B2C</strong></p></div><p><strong>Ecosistema</strong>: Fintech
+<strong>Cloud Provider</strong>: AWS
+<strong>Servicios</strong>: Glue | S3 | Redshift | DynamoDB |Athena</p></div></div>
+<pre><code></code></pre>
 
 ## FINTECH - CÁLCULO DE COMISIONES MENSUALES PARA CLIENTES B2B - AZURE (DATA FACTORY | DATABRICKS | DATA LAKE STORAGE)
 
