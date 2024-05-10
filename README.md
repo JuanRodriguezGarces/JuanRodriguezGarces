@@ -1,15 +1,13 @@
 # Hola, mi nombre es Juan Rodríguez Garcés 👋
 ### Azure & AWS Data Engineer
 
-![https://github.com/mouredev](./mouredev_github_profile.png)
-
 Soy Ingeniero de Datos con más de 5 años de experiencia en el desarrollo de soluciones de Big Data sobre las nubes de Azure y AWS. Mi experiencia incluye la creación de pipelines de datos automatizados para la extracción, transformación, almacenamiento y análisis de datos, así como la implementación de arquitecturas escalables y fiables en la nube.
 
 Me considero una persona proactiva, con habilidades de comunicación eficaces, resolución de problemas, aprendizaje autónomo y gran capacidad de trabajo en equipo. Estoy seguro de que puedo aportar gran valor a través de mi experiencia y conocimientos en el campo de la Ingeniería de Datos.
 
 ## Encuéntrame en:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Juan Rodriguez Garces-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/juandrodriguezgarces/))
+[https://img.shields.io/badge/LinkedIn-Juan_Rodriguez_Garces-blue](https://img.shields.io/badge/LinkedIn-Juan_Rodriguez_Garces-blue?link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjuandrodriguezgarces%2F)
 
 # PROYECTOS ELABORADOS
 
