@@ -10,7 +10,7 @@ Me considero una persona proactiva, con habilidades de comunicación eficaces, r
 	<img width="50" src="Azure.png" alt="Azure" title="Azure"/>
 	<img width="50" src="AWS.png" alt="AWS" title="AWS"/>
 	<img width="50" src="Python.png" alt="Python" title="Python"/>
-	<img width="50" src="Spark.png" alt="Apache Spark" title="Apache Spark"/>
+	<img width="100" src="Spark.png" alt="Apache Spark" title="Apache Spark"/>
 	<img width="50" src="Databricks.png" alt="Databricks" title="Databricks"/>
 	<img width="50" src="PostgreSQL.png" alt="PostgreSQL" title="PostgreSQL"/>
 	<img width="50" src="MySQL.png" alt="MySQL" title="MySQL"/>
