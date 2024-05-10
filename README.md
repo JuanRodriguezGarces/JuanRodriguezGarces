@@ -29,9 +29,9 @@ Me considero una persona proactiva, con habilidades de comunicación eficaces, r
 
 ## CONTACTO
 
-[![Email](https://img.shields.io/badge/juanrodriguezgarces@outlook.com-Email_Personal-0077B5?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:juanrodriguezgarces@outlook.com)
+[![Email](https://img.shields.io/badge/Email-juanrodriguezgarces@outlook.com-0077B5?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:juanrodriguezgarces@outlook.com)
 </br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Juan_Rodríguez_Garcés-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/juandrodriguezgarces)
 </br>
-[![WhatsApp](https://img.shields.io/badge/(+57)_310_449_4107-No._Celular_Personal-0077B5?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=101010)]
+[![WhatsApp](https://img.shields.io/badge/No._Celular_Personal_&_WhatsApp-(+57)_310_449_4107-0077B5?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=101010)]
 
