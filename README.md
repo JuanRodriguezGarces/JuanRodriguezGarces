@@ -5,18 +5,12 @@ Soy Ingeniero de Datos con más de 5 años de experiencia en el desarrollo de so
 
 Me considero una persona proactiva, con habilidades de comunicación eficaces, resolución de problemas, aprendizaje autónomo y gran capacidad de trabajo en equipo. Estoy seguro de que puedo aportar gran valor a través de mi experiencia y conocimientos en el campo de la Ingeniería de Datos.
 
-## TECNOLOGÍAS 💻:
-<div align="center">
-	<img width="40" src="https://user-images.githubusercontent.com/25181517/183911544-95ad6ba7-09bf-4040-ac44-0adafedb9616.png" alt="Microsoft Azure" title="Microsoft Azure"/>
-	<img width="40" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS" title="AWS"/>
-	<img width="40" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/>
-	<img width="40" src="https://user-images.githubusercontent.com/25181517/184357834-eba1eee1-6074-4b9c-8ed3-5373868096cc.png" alt="Apache Spark" title="Apache Spark"/>
-	<img width="40" src="https://user-images.githubusercontent.com/25181517/197845567-86a09ca9-d96f-42c4-9ab1-8bce95ab000d.png" alt="Databricks" title="Databricks"/>
-	<img width="40" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="PostgreSQL" title="PostgreSQL"/>
-	<img width="40" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/>
-	<img width="40" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/>
-	<img width="40" src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png" alt="Jira" title="Jira"/>
-</div>
+## TECNOLOGÍAS:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=azure,aws,github,mysql,postgres,py" />
+  </a>
+</p>
 
 # PROYECTOS ELABORADOS
 [![Cálculo de Comisiones Mensuales Clientes B2B](https://ytcards.demolab.com/?id=k2L3XGXNz5Y&title=Cálculo+de+Comisiones+Mensuales+Clientes+B2B&lang=en&timestamp=1715298952&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=30width=250&border_radius=5 "Cálculo de Comisiones Mensuales Clientes B2B")](https://www.youtube.com/watch?v=k2L3XGXNz5Y)
