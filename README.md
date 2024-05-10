@@ -11,19 +11,19 @@ Me considero una persona proactiva, con habilidades de comunicación eficaces, r
 
 # PROYECTOS ELABORADOS
 
-## CÁLCULO DE COMISIONES PARA CLIENTES B2B - FINTECH - AZURE(DATA FACTORY | DATABRICKS | DATA LAKE STORAGE)
+## ECOSISTEMA FINTECH - CÁLCULO DE COMISIONES MENSUALES PARA CLIENTES B2B - AZURE (DATA FACTORY | DATABRICKS | DATA LAKE STORAGE)
 
 <a href="https://retosdeprogramacion.com/roadmap"><img src="https://raw.githubusercontent.com/mouredev/roadmap-retos-programacion/main/Images/header.jpg" style="height: 60%; width:60%;"/></a>
 
-## CÁLCULO DE COSTOS TOTALES PARA CLIENTES B2B Y B2C - FINTECH - AZURE(DATA FACTORY | DATABRICKS | DATA LAKE STORAGE)
+## ECOSISTEMA FINTECH - CÁLCULO DE COSTOS TOTALES PARA CLIENTES B2B Y B2C - AZURE (DATA FACTORY | DATABRICKS | DATA LAKE STORAGE)
 
 <a href="https://mouredev.link/sql"><img src="https://raw.githubusercontent.com/mouredev/hello-sql/main/Images/header.jpg" style="height: 60%; width:60%;"/></a>
 
-## CÁLCULO DE COMISIONES PARA CLIENTES B2B - FINTECH - AWS(GLUE | S3 | REDSHIFT | DYNAMODB)
+## ECOSISTEMA FINTECH - CÁLCULO DE COMISIONES PARA CLIENTES B2B - AWS (GLUE | S3 | REDSHIFT | DYNAMODB | ATHENA)
 
 <a href="https://mouredev.link/python"><img src="https://raw.githubusercontent.com/mouredev/Hello-Python/main/Images/header.jpg" style="height: 60%; width:60%;"/></a>
 
-## CÁLCULO DE COSTOS TOTALES PARA CLIENTES B2B Y B2C - FINTECH - AWS(GLUE | S3 | REDSHIFT | DYNAMODB)
+## ECOSISTEMA FINTECH - CÁLCULO DE COSTOS TOTALES PARA CLIENTES B2B Y B2C - AWS(GLUE | S3 | REDSHIFT | DYNAMODB | ATHENA)
 
 <a href="https://mouredev.link/git"><img src="https://raw.githubusercontent.com/mouredev/hello-git/main/Media/header.jpg" style="height: 60%; width:60%;"/></a>
 
