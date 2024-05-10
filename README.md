@@ -5,7 +5,7 @@ Soy Ingeniero de Datos con más de 5 años de experiencia en el desarrollo de so
 
 Me considero una persona proactiva, con habilidades de comunicación eficaces, resolución de problemas, aprendizaje autónomo y gran capacidad de trabajo en equipo. Estoy seguro de que puedo aportar gran valor a través de mi experiencia y conocimientos en el campo de la Ingeniería de Datos.
 
-## Encuéntrame en:
+## ENCUÉNTRAME EN:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Juan_Rodríguez_Garcés-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/juandrodriguezgarces)
 
@@ -27,15 +27,8 @@ Me considero una persona proactiva, con habilidades de comunicación eficaces, r
 
 <a href="https://mouredev.link/git"><img src="https://raw.githubusercontent.com/mouredev/hello-git/main/Media/header.jpg" style="height: 60%; width:60%;"/></a>
 
+## CONTACTO
 
-
-## Un día, un lenguaje: Primeros pasos en 11 lenguajes
-
-<a href="https://mouredev.link/lenguajes"><img src="https://raw.githubusercontent.com/mouredev/one-day-one-language/main/Media/header.jpg" style="height: 60%; width:60%;"/></a>
-
-[![Curso Lenguajes](https://img.shields.io/github/stars/mouredev/one-day-one-language?label=Un%20día,%20un%20lenguaje&style=social)](https://github.com/mouredev/one-day-one-language)
-
-## Contacto y apoyo:
-
-[![Email](https://img.shields.io/badge/juanrodriguezgarces@outlook.com-email_personal_(respuesta_lenta)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:juanrodriguezgarces@outlook.com)
+[![Email](https://img.shields.io/badge/juanrodriguezgarces@outlook.com-Email_Personal-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:juanrodriguezgarces@outlook.com)
 </br>
+[![Phone](https://img.shields.io/badge/(+57)_310_449_4107-Celular_Personal-D14836?style=for-the-badge&logo=phone&logoColor=white&labelColor=101010)]
