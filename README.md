@@ -7,7 +7,7 @@ Me considero una persona proactiva, con habilidades de comunicación eficaces, r
 
 ## TECNOLOGÍAS:
 <div align="center">
-	<img width="50" src="Azure.png" alt="Microsoft Azure" title="Microsoft Azure"/>
+	<img width="50" src="Azure.png" alt="Azure" title="Azure"/>
 	<img width="50" src="AWS.png" alt="AWS" title="AWS"/>
 	<img width="50" src="Python.png" alt="Python" title="Python"/>
 	<img width="50" src="Spark.png" alt="Apache Spark" title="Apache Spark"/>
@@ -19,19 +19,7 @@ Me considero una persona proactiva, con habilidades de comunicación eficaces, r
 </div>
 
 # PROYECTOS ELABORADOS
-[![Cálculo de Comisiones Mensuales Clientes B2B](https://ytcards.demolab.com/?id=k2L3XGXNz5Y&title=Cálculo+de+Comisiones+Mensuales+Clientes+B2B&lang=en&timestamp=1715298952&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=30width=250&border_radius=5 "Cálculo de Comisiones Mensuales Clientes B2B")](https://www.youtube.com/watch?v=k2L3XGXNz5Y)
-
-::: info-box
-[Useful information]{.box-header}
-
-This box describes some useful information.
-:::
-
-::: danger-box
-[Some kind of a warning]{.box-header}
-
-This box describes a possible danger that the readers should avoid.
-:::
+[![Comisiones Mensuales Clientes B2B](https://ytcards.demolab.com/?id=k2L3XGXNz5Y&title=Comisiones+Mensuales+Clientes+B2B&lang=en&timestamp=1715298952&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=30width=300&border_radius=5 "Comisiones Mensuales Clientes B2B")](https://www.youtube.com/watch?v=k2L3XGXNz5Y)
 
 ## FINTECH - CÁLCULO DE COMISIONES MENSUALES PARA CLIENTES B2B - AZURE (DATA FACTORY | DATABRICKS | DATA LAKE STORAGE)
 
