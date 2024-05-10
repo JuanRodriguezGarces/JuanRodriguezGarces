@@ -7,7 +7,7 @@ Me considero una persona proactiva, con habilidades de comunicación eficaces, r
 
 ## Encuéntrame en:
 
-[https://img.shields.io/badge/LinkedIn-Juan_Rodriguez_Garces-blue](https://img.shields.io/badge/LinkedIn-Juan_Rodriguez_Garces-blue?link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjuandrodriguezgarces%2F)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Juan_Rodriguez_Garces-blue)](https://img.shields.io/badge/LinkedIn-Juan_Rodriguez_Garces-blue?link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjuandrodriguezgarces%2F)
 
 # PROYECTOS ELABORADOS
 
