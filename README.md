@@ -33,5 +33,5 @@ Me considero una persona proactiva, con habilidades de comunicación eficaces, r
 </br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Juan_Rodríguez_Garcés-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/juandrodriguezgarces)
 </br>
-[![WhatsApp](https://img.shields.io/badge/WhatsApp_&_No._Celular-(+57)_310_449_4107-0077B5?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=101010)](https://web.whatsapp.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp_&_No._Celular-(+57)_322_602_1296_&_(+57)_310_449_4107-0077B5?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=101010)](https://web.whatsapp.com)
 
