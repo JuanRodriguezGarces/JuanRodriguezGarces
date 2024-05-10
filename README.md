@@ -19,7 +19,8 @@ Me considero una persona proactiva, con habilidades de comunicación eficaces, r
 </div>
 
 # PROYECTOS ELABORADOS
-<!-- BEGIN YOUTUBE-CARDS -->
+[![Cálculo de Comisiones Mensuales Clientes B2B](https://ytcards.demolab.com/?id=k2L3XGXNz5Y&title=DevDocs+%F0%9F%93%9A+Biblioteca+para+desarrolladores&lang=en&timestamp=1715298952&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Cálculo de Comisiones Mensuales Clientes B2B")](https://www.youtube.com/watch?v=k2L3XGXNz5Y)
+
 ## FINTECH - CÁLCULO DE COMISIONES MENSUALES PARA CLIENTES B2B - AZURE (DATA FACTORY | DATABRICKS | DATA LAKE STORAGE)
 
 ## FINTECH - CÁLCULO DE COSTOS TOTALES PARA CLIENTES B2B Y B2C - AZURE (DATA FACTORY | DATABRICKS | DATA LAKE STORAGE)
@@ -27,7 +28,7 @@ Me considero una persona proactiva, con habilidades de comunicación eficaces, r
 ## FINTECH - CÁLCULO DE COMISIONES PARA CLIENTES B2B - AWS (GLUE | S3 | REDSHIFT | DYNAMODB | ATHENA)
 
 ## FINTECH - CÁLCULO DE COSTOS TOTALES PARA CLIENTES B2B Y B2C - AWS(GLUE | S3 | REDSHIFT | DYNAMODB | ATHENA)
-<!-- END YOUTUBE-CARDS -->
+
 
 ## CONTACTO
 
