@@ -1,17 +1,28 @@
 # Hola, mi nombre es Juan Rodríguez Garcés :wave:
-
 ### Azure & AWS Data Engineer
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 Soy Ingeniero de Datos con más de 5 años de experiencia en el desarrollo de soluciones de Big Data sobre las nubes de Azure y AWS. Mi experiencia incluye la creación de pipelines de datos automatizados para la extracción, transformación, almacenamiento y análisis de datos, así como la implementación de arquitecturas escalables y fiables en la nube.
 
 Me considero una persona proactiva, con habilidades de comunicación eficaces, resolución de problemas, aprendizaje autónomo y gran capacidad de trabajo en equipo. Estoy seguro de que puedo aportar gran valor a través de mi experiencia y conocimientos en el campo de la Ingeniería de Datos.
 
 ## TECNOLOGÍAS 💻:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
+<div align="center">
+	<table>
+		<tr>
+			<td><code><img width="40" src="https://user-images.githubusercontent.com/25181517/183911544-95ad6ba7-09bf-4040-ac44-0adafedb9616.png" alt="Microsoft Azure" title="Microsoft Azure"/></code></td>
+			<td><code><img width="40" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS" title="AWS"/></code></td>
+			<td><code><img width="40" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code></td>
+			<td><code><img width="40" src="https://user-images.githubusercontent.com/25181517/184357834-eba1eee1-6074-4b9c-8ed3-5373868096cc.png" alt="Apache Spark" title="Apache Spark"/></code></td>
+			<td><code><img width="40" src="https://user-images.githubusercontent.com/25181517/197845567-86a09ca9-d96f-42c4-9ab1-8bce95ab000d.png" alt="Databricks" title="Databricks"/></code></td>
+			<td><code><img width="40" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="PostgreSQL" title="PostgreSQL"/></code></td>
+			<td><code><img width="40" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/></code></td>
+			<td><code><img width="40" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/></code></td>
+		</tr>
+		<tr>
+			<td><code><img width="40" src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png" alt="Jira" title="Jira"/></code></td>
+		</tr>
+	</table>
+</div>
 
 # PROYECTOS ELABORADOS
 <!-- BEGIN YOUTUBE-CARDS -->
