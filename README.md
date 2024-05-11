@@ -21,6 +21,18 @@ Me considero una persona proactiva, con habilidades de comunicación eficaces, r
 # PROYECTOS ELABORADOS
 [![Comisiones Mensuales Clientes B2B](https://ytcards.demolab.com/?id=k2L3XGXNz5Y&title=Comisiones+Mensuales+Clientes+B2B&lang=en&timestamp=1715298952&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=30width=300&border_radius=5 "Comisiones Mensuales Clientes B2B")](https://www.youtube.com/watch?v=k2L3XGXNz5Y)
 
+<div class="card  ">
+  <div class="card-header">Fintech</div>
+  <div class="card-body">
+    <h5 class="card-title">Comisiones Mensuales Clientes B2B</h5>
+    <p class="card-text">
+      Some quick example text to build on the card title and make up the bulk of the
+      card's content.
+    </p>
+    <button type="button" class="btn btn-primary">Explorar</button>
+  </div>
+</div>
+
 ## FINTECH - CÁLCULO DE COMISIONES MENSUALES PARA CLIENTES B2B - AZURE (DATA FACTORY | DATABRICKS | DATA LAKE STORAGE)
 
 ## FINTECH - CÁLCULO DE COSTOS TOTALES PARA CLIENTES B2B Y B2C - AZURE (DATA FACTORY | DATABRICKS | DATA LAKE STORAGE)
