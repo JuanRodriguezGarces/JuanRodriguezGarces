@@ -30,6 +30,8 @@ Me considero una persona proactiva, con habilidades de comunicación eficaces, r
   </div>
 </div>
 
+<link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.4.1/css/bootstrap.min.css" rel="stylesheet" />
+
 ## FINTECH - CÁLCULO DE COMISIONES MENSUALES PARA CLIENTES B2B - AZURE (DATA FACTORY | DATABRICKS | DATA LAKE STORAGE)
 
 ## FINTECH - CÁLCULO DE COSTOS TOTALES PARA CLIENTES B2B Y B2C - AZURE (DATA FACTORY | DATABRICKS | DATA LAKE STORAGE)
